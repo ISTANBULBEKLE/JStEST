@@ -1,5 +1,3 @@
-
-/*
 function totalNumber (){
     let firstName='Ekip';
     let lastName= 'Kalir';
@@ -11,9 +9,9 @@ function totalNumber (){
 }
 totalNumber();
 
-*/
 
-unction totalNumber (firstName, lastName, myAge, lifeExis){
+/*
+function totalNumber (firstName, lastName, myAge, lifeExIs){
     let firstName='Ekip';
     let lastName= 'Kalir';
     let myAge=42;
@@ -22,4 +20,4 @@ unction totalNumber (firstName, lastName, myAge, lifeExis){
     let myMsgAndLeftAge = `My name is ${firstName} ${lastName} and I have ${myLifeLeft} year to live.`;
     return myMsgAndLeftAge;
 }
-totalNumber('Ebenezer', 'Sum', 47, 90);
+totalNumber('Ebenezer', 'Sum', 47, 90); */
